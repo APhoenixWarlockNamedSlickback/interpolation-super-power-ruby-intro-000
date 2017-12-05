@@ -3,5 +3,5 @@ def display_rainbow(letter, color)
   letter = ["R", "O", "Y", "G", "B", "I", "V"]
 end
 
-  puts "#{letter[0]}: #{color[0]},"
+puts "#{letter[0]}: #{color[0]},"
 puts display_rainbow
