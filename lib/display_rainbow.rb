@@ -1,7 +1,7 @@
-def display_rainbow(letter, color)
-  letter = ["R", "O", "Y", "G", "B", "I", "V"]
+def display_rainbow(color)
   color = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 end
 
-puts "#{letter[0]}: #{color[0]},"
+puts "R: #{color[0]}, O: #{color[1]}, Y: #{color[2]}, G: #{color[3]}, B: #{color[4]}, I: #{color[5]}, V: #{color[6]}"
 puts display_rainbow
+
