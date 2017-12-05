@@ -4,4 +4,5 @@ def display_rainbow(color)
   puts display_rainbow(color)
 end
 
-
+  puts display_rainbow(color)
+  
