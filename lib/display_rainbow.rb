@@ -4,3 +4,4 @@ def display_rainbow(letter, color)
 end
 
   puts "#{letter[0]}: #{color[0]},"
+puts display_rainbow
